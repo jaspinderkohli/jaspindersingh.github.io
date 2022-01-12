@@ -16,8 +16,8 @@ a {
 }
 
 .resume{
-	/*width: 1000px;*/
-	width: 900px;
+	width: 1000px;
+	/*width: 900px;*/
 	background: #fff;
 	margin: 25px auto;
 	display: flex;
@@ -253,7 +253,8 @@ a {
     height: 100px;
     margin-bottom: 15px;
     border-radius: 15px;
-    background: #292b2f;
+    /*background: #292b2f;*/
+    background: #ffffff;
     display: flex;
     flex-direction: column;
     align-items: center;
