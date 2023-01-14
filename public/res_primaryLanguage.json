@@ -100,11 +100,11 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Nyalazone Solutions",
+        "title": "Data Engineer",
+        "years": "August 2019 - July 2021",
         "mainTech": [
-          "Angular 7/8"
+          "PostgreSQL", "Python", "Docker"
         ],
         "technologies": [
           "RxJS",
@@ -112,6 +112,20 @@
           "PHP",
           "JavaScript",
           "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "Nyalazone Solutions",
+        "title": "Data Engineer Intern",
+        "years": "August 2018 - August 2019",
+        "mainTech": [
+          "PostgreSQL", "Python", "Docker"
+        ],
+        "technologies": [
+          "Python",
+          "PostgreSQL",
+          "GCP",
+          "Docker"
         ]
       }
     ]
