@@ -1,6 +1,6 @@
 {
-  "name": "test",
-  "homepage": "https://jaspinderkohli.com/test-h",
+  "name": "jaspinders-portfolio",
+  "homepage": "https://jaspinderkohli.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
