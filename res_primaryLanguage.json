@@ -1,12 +1,13 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Jaspinder Singh. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 Welcome to my portfolio website! My name is Jaspinder Singh and I am a Computer Science graduate student at Memorial University. I have a wealth of experience in the field, having previously worked as a Software Engineer and a Data Engineer. On this site, you will find a collection of my past projects, professional experience, and educational background. I hope you enjoy exploring my work and learning more about my skills and experience.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Experience",
+        "education": "Education"
       }
     },
     "projects": [
@@ -79,6 +80,39 @@
         ]
       }
     ],
+    "education": [
+    {
+      "school": "Memorial University of Newfoundland",
+      "degree": "Master of Science (M.Sc) Computer Science",
+      "years": "2021 - Expected Graduation, 2023",
+      "mainTech": [
+        "Angular", "Ionic", "React", "Java"
+      ],
+      "technologies": [
+        "Databases & Technologies",
+        "Data Visualization",
+        "Applied Algorithms",
+        "Machine Learning",
+        "Data Preparation"
+      ]
+    },
+    {
+      "school": "Chitkara University",
+      "degree": "Bachelor of Computer Science and Engineering",
+      "years": "2015 - 2019",
+      "mainTech": [
+        "Angular", "Ionic", "React", "Java"
+      ],
+      "technologies": [
+        "Python",
+        "C",
+        "Database Management Systems",
+        "Computer Networks",
+        "Computer System Architecture",
+        "Software Engineering"
+      ]
+    }
+  ],
     "experience": [
       {
         "company": "BreatheSuite",
