@@ -163,9 +163,9 @@ header h1 {
 
 .project-title-settings {
 	margin-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 12px/18px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 3px;
+	letter-spacing: 2px;
 	color: black;
 	text-align: center;
 }
@@ -435,7 +435,7 @@ footer a:focus {
 }
 
 .social-links {
-	margin-top: 50px;
+	margin-top: 20px;
 	font-size: 22px;
 }
 
@@ -454,4 +454,8 @@ footer a:focus {
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.test-class {
+	width: 10%;
 }

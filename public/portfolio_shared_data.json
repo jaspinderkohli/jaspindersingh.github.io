@@ -5,13 +5,23 @@
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/jaspinderkohli",
         "class": "fab fa-github"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com",
+        "url": "https://www.instagram.com/alt.jaspinder",
         "class": "fab fa-instagram"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jaspinder-nl/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "leetcode",
+        "url": "https://leetcode.com/jaspinder/",
+        "class": "fas fa-laptop-code"
       }
     ],
     "image": "myProfile.jpg"
@@ -19,13 +29,8 @@
   "skills": {
     "icons": [
       {
-        "name": "HTML 5",
-        "class": "devicon-html5-plain",
-        "level": "95"
-      },
-      {
-        "name": "CSS 3",
-        "class": "devicon-css3-plain",
+        "name": "Python",
+        "class": "devicon-python-plain",
         "level": "95"
       },
       {
@@ -44,24 +49,29 @@
         "level": "70"
       },
       {
-        "name": "Sass",
-        "class": "devicon-sass-original",
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "70"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
         "level": "75"
-      },
-      {
-        "name": "Bootstrap",
-        "class": "devicon-bootstrap-plain",
-        "level": "85"
-      },
-      {
-        "name": "C#",
-        "class": "devicon-csharp-plain",
-        "level": "65"
       },
       {
         "name": "MySql",
         "class": "devicon-mysql-plain",
         "level": "60"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "85"
+      },
+      {
+        "name": "Spring Boot",
+        "class": "devicon-spring-plain",
+        "level": "85"
       }
     ]
   }
