@@ -12,70 +12,45 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Image-Based Crop Disease Detection",
+        "startDate": "2022",
+        "description": "Provides three quick Solutions from an early disease detection of crops, communication platform for discussion regarding their crops and a marketplace to sell their crops after harvest.\n\n",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/crop-disease1.png",
+          "images/portfolio/crop-diseasese-detection.png"
         ],
-        "url": "",
+        "url": "https://devpost.com/software/one-stop-agro",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-tensorflow-original",
+            "name": "Tensorflow"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "WebDevTools"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Chatbot Using Deep Learning",
+        "startDate": "2022",
+        "description": "This project is a ChatBot that can be used to answer questions. The ChatBot is built using deep learning and natural language processing techniques.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/chatbot.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/jaspinderkohli/chatbot-python",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       }
@@ -122,15 +97,7 @@
           "Angular", "Ionic", "React", "Java"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Angular", "Ionic", "React", "Java", "Spring Boot", "AWS", "Postman API"
         ]
       },
       {
@@ -141,11 +108,7 @@
           "PostgreSQL", "Python", "Docker"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "PostgreSQL", "Python", "Docker", "GCLOUD", "Azure"
         ]
       },
       {
@@ -156,10 +119,7 @@
           "PostgreSQL", "Python", "Docker"
         ],
         "technologies": [
-          "Python",
-          "PostgreSQL",
-          "GCP",
-          "Docker"
+          "PostgreSQL", "Python", "Docker", "GCLOUD", "Azure", "Angular", "Cordova"
         ]
       }
     ]
