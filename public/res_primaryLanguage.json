@@ -68,7 +68,9 @@
         "Data Visualization",
         "Applied Algorithms",
         "Machine Learning",
-        "Data Preparation"
+        "Data Preparation",
+        "Software Engineering",
+        "Information Systems"
       ]
     },
     {
@@ -90,7 +92,18 @@
   ],
     "experience": [
       {
-        "company": "BreatheSuite",
+        "company": "Meddai Medical Inc.",
+        "title": "Machine Learning Engineer",
+        "years": "January 2023 - March 2023",
+        "mainTech": [
+          "Next", "React", "Python", "Hugging Face"
+        ],
+        "technologies": [
+          "Python", "Tensorflow", "Flask", "Hugging Face", "Supabase"
+        ]
+      },
+      {
+        "company": "BreatheSuite Inc.",
         "title": "Software Engineer Intern",
         "years": "May 2022 - December 2022",
         "mainTech": [

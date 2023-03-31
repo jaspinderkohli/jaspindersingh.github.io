@@ -12,15 +12,6 @@ class Education extends Component {
             var sectionName = this.props.resumeBasicInfo.section_name.education;
             var work = this.props.resumeEducation.map(function (work, i) {
                 const technologies = work.technologies;
-                // const mainTechnologies = work.mainTech;
-
-                // var mainTech = mainTechnologies.map((technology, i) => {
-                //     return (
-                //         <Badge pill className="main-badge mr-2 mb-2" key={i}>
-                //             {technology}
-                //         </Badge>
-                //     );
-                // });
                 var tech = technologies.map((technology, i) => {
                     return (
                         <Badge pill className="education-badge mr-2 mb-2" key={i}>
