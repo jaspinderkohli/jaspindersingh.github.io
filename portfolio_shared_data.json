@@ -54,6 +54,11 @@
         "level": "70"
       },
       {
+        "name": "Next.js",
+        "class": "devicon-nextjs-original",
+        "level": "70"
+      },
+      {
         "name": "PostgreSQL",
         "class": "devicon-postgresql-plain",
         "level": "75"
@@ -72,6 +77,11 @@
         "name": "Spring Boot",
         "class": "devicon-spring-plain",
         "level": "85"
+      },
+      {
+        "name": "GraphQL",
+        "class": "devicon-graphql-plain",
+        "level": "70"
       }
     ]
   }
