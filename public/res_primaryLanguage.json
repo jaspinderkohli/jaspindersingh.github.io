@@ -12,6 +12,34 @@
     },
     "projects": [
       {
+        "title": "WeatherApp using OpenAI",
+        "startDate": "2023",
+        "description": "The Next.js OpenAI Project is a weather application powered by OpenAI, Next.js 13.3, Tailwind CSS, Tremor 2.0, and more! It features server-side rendering for fast performance, natural language processing with OpenAI, customizable styling with Tailwind CSS, and data streaming and processing with Tremor 2.0. The project allows users to get accurate weather information and offers a solid foundation for building weather-related applications with enhanced functionality.",
+        "images": [
+          "images/portfolio/weatherApp.png",
+          "images/portfolio/weatherApp.png"
+        ],
+        "url": "https://github.com/jaspinderkohli/weather-app-stepzen-nextjs",
+        "technologies": [
+          {
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "NextJS"
+          },
+          {
+            "class": "devicon-stepzen-plain",
+            "name": "StepZen"
+          },
+          {
+            "class": "devicon-openai-plain",
+            "name": "OpenAI"
+          }
+        ]
+      },
+      {
         "title": "Image-Based Crop Disease Detection",
         "startDate": "2022",
         "description": "Provides three quick Solutions from an early disease detection of crops, communication platform for discussion regarding their crops and a marketplace to sell their crops after harvest.\n\n",
