@@ -16,8 +16,9 @@
         "startDate": "2023",
         "description": "The Next.js OpenAI Project is a weather application powered by OpenAI, Next.js 13.3, Tailwind CSS, Tremor 2.0, and more! It features server-side rendering for fast performance, natural language processing with OpenAI, customizable styling with Tailwind CSS, and data streaming and processing with Tremor 2.0. The project allows users to get accurate weather information and offers a solid foundation for building weather-related applications with enhanced functionality.",
         "images": [
-          "images/portfolio/weatherApp.png",
-          "images/portfolio/weatherApp.png"
+          "images/portfolio/weather1.png",
+          "images/portfolio/weather2.png",
+          "images/portfolio/weather3.png"
         ],
         "url": "https://github.com/jaspinderkohli/weather-app-stepzen-nextjs",
         "technologies": [
