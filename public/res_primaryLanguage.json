@@ -122,18 +122,18 @@
     "experience": [
       {
         "company": "Meddai Medical Inc.",
-        "title": "Machine Learning Engineer",
-        "years": "January 2023 - March 2023",
+        "title": "Software Developer",
+        "years": "January 2023 - April 2023",
         "mainTech": [
-          "Next", "React", "Python", "Hugging Face"
+          "Next.js", "React", "Python", "Hugging Face"
         ],
         "technologies": [
-          "Python", "Tensorflow", "Flask", "Hugging Face", "Supabase"
+          "Python", "Tensorflow", "Flask", "Hugging Face", "Supabase", "AWS"
         ]
       },
       {
         "company": "BreatheSuite Inc.",
-        "title": "Software Engineer Intern",
+        "title": "Software Engineer CO-OP",
         "years": "May 2022 - December 2022",
         "mainTech": [
           "Angular", "Ionic", "React", "Java"
