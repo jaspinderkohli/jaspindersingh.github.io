@@ -8,6 +8,7 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Education from "./components/Education";
+import OpenSource from "./components/OpenSource";
 
 class App extends Component {
 
@@ -94,6 +95,10 @@ class App extends Component {
           resumeProjects={this.state.resumeData.projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
+          <OpenSource
+              resumeOpenSource={this.state.resumeData.opensource}
+              resumeBasicInfo={this.state.resumeData.basic_info}
+          />
         <Skills
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}

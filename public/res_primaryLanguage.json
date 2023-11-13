@@ -1,13 +1,14 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 Welcome to my portfolio website! My name is Jaspinder Singh and I am a Computer Science graduate student at Memorial University. I have a wealth of experience in the field, having previously worked as a Software Engineer and a Data Engineer. On this site, you will find a collection of my past projects, professional experience, and educational background. I hope you enjoy exploring my work and learning more about my skills and experience.",
+      "description": "👋 Welcome to my portfolio website! My name is Jaspinder Singh and I am a recent Computer Science grad student from Memorial University. I have a wealth of experience in the field, having previously worked as a Software Engineer and a Data Engineer. On this site, you will find a collection of my past projects, professional experience, and educational background. I hope you enjoy exploring my work and learning more about my skills and experience.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience",
-        "education": "Education"
+        "education": "Education",
+        "opensource": "Open Source"
       }
     },
     "projects": [
@@ -88,7 +89,7 @@
     {
       "school": "Memorial University of Newfoundland",
       "degree": "Master of Science (M.Sc) Computer Science",
-      "years": "2021 - Expected Graduation, 2023",
+      "years": "September 2021 - August 2023",
       "mainTech": [
         "Angular", "Ionic", "React", "Java"
       ],
@@ -105,7 +106,7 @@
     {
       "school": "Chitkara University",
       "degree": "Bachelor of Computer Science and Engineering",
-      "years": "2015 - 2019",
+      "years": "August 2015 - July 2019",
       "mainTech": [
         "Angular", "Ionic", "React", "Java"
       ],
@@ -120,6 +121,17 @@
     }
   ],
     "experience": [
+      {
+        "company": "Fonemed",
+        "title": "Software Developer",
+        "years": "September 2023 - Present",
+        "mainTech": [
+          "React", "Python", "AWS"
+        ],
+        "technologies": [
+          "React", "Python", "AWS Lambda", "HTML", "CSS", "Jest"
+        ]
+      },
       {
         "company": "Meddai Medical Inc.",
         "title": "Software Developer",
@@ -164,5 +176,28 @@
           "PostgreSQL", "Python", "Docker", "GCLOUD", "Azure", "Angular", "Cordova"
         ]
       }
-    ]
-  }
+    ],
+  "opensource": [
+    {
+      "title": "LeetCode-Sync",
+      "date": "2023",
+      "repository": "joshcai/leetcode-sync",
+      "description": "Added the feature to retrieve and add problem description in the solution.",
+      "link": "https://github.com/joshcai/leetcode-sync/pull/40"
+    },
+    {
+      "title": "Vertical Timeline Component for React.js",
+      "date": "2023",
+      "repository": "stephane-monnot/react-vertical-timeline",
+      "description": "Made the shadowSize property configurable for icons on the timeline. Used in my portfolio.",
+      "link": "https://github.com/stephane-monnot/react-vertical-timeline/pull/162"
+    },
+    {
+      "title": "Python Scripts",
+      "date": "2023",
+      "repository": "Python-Scripts-Repo",
+      "description": "Contribution 1: Password hashing utility for hash algos like MD5, SHA-1. Contribution 2: Script that checks password strength.",
+      "link": "https://github.com/larymak/Python-project-Scripts/pull/309"
+    }
+  ]
+}
